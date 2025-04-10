@@ -86,7 +86,7 @@ const TimerPage = () => {
           <img
               src="/title.png"
               alt="HackHorizon Logo"
-              className="h-64 md:h-80 object-contain mb-0"
+              className="h-80 md:h-96 object-contain mb-0"
           />
           <div className="-mt-4">
             <TypewriterText text="Where Innovation Meets Reality!" />
